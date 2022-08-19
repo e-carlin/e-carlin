@@ -18,4 +18,4 @@ Hut](https://git.sr.ht/~e-carlin/). I like their business model (users
 pay for the service) and I appreciate the dedication of the
 [creator](https://drewdevault.com/) of the site.
 
-I also have an infrequently updated [blog](https://evan.carlin.com/pages/about-me).
+I also have an infrequently updated [blog](https://evan.carlin.com/).
