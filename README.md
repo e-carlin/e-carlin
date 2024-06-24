@@ -4,7 +4,7 @@ Colorado.
 
 I currently work for [Radiasoft](https://radiasoft.net/) on
 [Sirepo](https://www.sirepo.com/) ([source
-code](https://github.com/radiasoft/sirepo/)), a website for running
+code](https://github.com/radiasoft/sirepo/)), a gateway for running
 scientific computing simulations in the cloud (oooh jargon, no
 seriously it's cool:)).
 
