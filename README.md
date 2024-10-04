@@ -5,8 +5,7 @@ Colorado.
 I currently work for [Radiasoft](https://radiasoft.net/) on
 [Sirepo](https://www.sirepo.com/) ([source
 code](https://github.com/radiasoft/sirepo/)), a gateway for running
-scientific computing simulations in the cloud (oooh jargon, no
-seriously it's cool:)).
+scientific computing simulations in the cloud.
 
 For professional experience, please visit my
 [LinkedIn](https://www.linkedin.com/in/evan-carlin/).
