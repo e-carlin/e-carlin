@@ -1,11 +1,7 @@
 # About me
-Hi, my name is Evan Carlin. I'm a programmer living in Denver,
-Colorado.
+Hi, my name is Evan Carlin. I'm a programmer living in Colorado, USA.
 
-I currently work for [Radiasoft](https://radiasoft.net/) on
-[Sirepo](https://www.sirepo.com/) ([source
-code](https://github.com/radiasoft/sirepo/)), a gateway for running
-scientific computing simulations in the cloud.
+I currently work for [PaymentWorks](https://www.paymentworks.com/).
 
 For professional experience, please visit my
 [LinkedIn](https://www.linkedin.com/in/evan-carlin/).
